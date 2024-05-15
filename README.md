@@ -2,7 +2,7 @@
 
 ## Project overview
 
-This Power BI dashboard is for Maven Market, a business which owns a variety of grocery stores of differing sizes across multiple countries in North America, namely: United States, Canada and Mexico. The purpose of this dashboard is to provide an overview and insights from a financial and commercial point of view, based on the data provided.
+This Power BI dashboard is for Maven Market, an international retail store company with multiple stores of different sizes opened in the United States, Canada and Mexico. The purpose of this dashboard is to provide an overview and insights from a financial and commercial perspective, based on the data provided.
 
 ## Data set
 
