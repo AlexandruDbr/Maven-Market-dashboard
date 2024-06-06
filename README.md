@@ -6,10 +6,9 @@ This Power BI dashboard is for Maven Market, an international retail store compa
 
 ## Data set
 
-The raw data came in form of 8  CSV files which were then transformed and cleaned in Power BI. Besides these tables, there is another blank table whose role is solely to centralise all the measures created.
+The raw data came in form of 8 CSV files which were then transformed and cleaned in Power BI. No data dictionary was provided nor created by myself as data is self explenatory through its column titles. Besides these tables, there is another blank table whose role is solely to centralise all the measures created.
 
 The cleaning process for this data set was generally straightforward, requiring mainly header promotion, data type checking and corrections as well as basic creation of additional columns, such as "average retail price" by product brand, getting area codes and years based on other columns, etc.
-
 
 
 ## Analysis starting point and insights
@@ -25,7 +24,7 @@ The aforementioned information has been put into context visually based on store
 
 ### Insights: 
 
-Note: Besides the data from the analysis "Overall turnover trend", all the numbers mentioned below are based on the period 01/31/1997 - 12/31/1998. 
+Note: Besides the analysis "Overall turnover trend", all the numbers mentioned below are based on the reporting period 01/31/1997 - 12/31/1998. 
 
 #### 1. Overall turnover trend.
 
@@ -57,11 +56,11 @@ The months that had followed presented generally low fluctions until  the beginn
   * Mexico: Mexico City, Guadalajara
   * Canada: Victoria
 
-* Although since October 1997 it has been an high sales increase in for low fat products overall, I recommend to distribute these type of products first in stores of type "Supermarkets" and "Deluxe Supermarkets" where the sales for these type of products has been around half of those high in fat products ,comparing to the other store types, where the sales for this sort of products has been much lower.
+* Although since October 1997 there was a continous spike in sales based on low fat products overall, I recommend start distributing these type of products first in stores of type "Supermarkets" and "Deluxe Supermarkets" where the gross sales amount of low fat products reached half of those high in fat products, compared to other store types, where the sales for this low fat products has been much lower than that.
 
-* Regardless of the store type, recyclable products sales had surpassed the non-recyclable ones in sales, the difference being significant in **store types with the highest turnover rate mentioned above**. Therefore, I suggest to negociate prices with vendors who are providing non-recyclable product types whilst trying to substitute non-recyclable products with recyclable ones by gradually testing and entering the market.  
+* Regardless of the store type, recyclable products sales had surpassed the non-recyclable ones in sales, the difference being significant in **store types with the highest turnover rate mentioned above**. Therefore, I suggest to negociate prices of goods with vendors who are providing non-recyclable product types in order increase the margin or start to substitute non-recyclable products with recyclable ones by gradually testing and entering the market in key areas first.  
 
-* High-fat products are the popular choice in all types of stores. Further analysis should be done to determine which products are most sought after in order to prevent stockpiling products, especially perishable goods.
+* High-fat products are the majority's choice in all types of stores. More data should be provided in order to determine which products are most sought after in order to prevent products from stockpiling, especially perishable ones.
 
 ## Requirements
 
